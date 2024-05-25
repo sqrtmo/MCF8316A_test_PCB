@@ -1,0 +1,11 @@
+RPM/V      : 1000
+POLES      : 14
+POLE PAIRS : 7
+INDUCTANCE : 13.8  uH
+RESISTANCE : 0.110 R
+MAX CURRENT: 13 A
+
+
+Kv(motor velocity constant) = 1000 * 5.6V = 5600
+
+
